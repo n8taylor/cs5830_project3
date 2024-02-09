@@ -2,3 +2,4 @@ pokebase
 pandas
 matplotlib
 seaborn
+scipy

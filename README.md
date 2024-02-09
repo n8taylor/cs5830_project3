@@ -5,7 +5,7 @@
 This project involves using multiple analysis techniques to explore Pokemon data. The dataset contains information on Pokemon species, types, and stats.
 
 ## Dataset Description
-The dataset
+We utilized the PokeAPI dataset for our analysis as well as a compiled dataset by [Igreski](https://github.com/lgreski/pokemonData/blob/master/Pokemon.csv). This was due to the PokeAPI being relatively slow to pull from. The data is static, and the compoiled dataset has each Pokemon with their respective ID, Name, Types, Generation and stats.
 
 ## File Structure
 - `project3.ipynb`: Jupyter notebook containing the analysis code.

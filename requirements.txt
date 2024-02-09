@@ -1,0 +1,4 @@
+pokebase
+pandas
+matplotlib
+seaborn

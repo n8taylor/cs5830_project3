@@ -2,15 +2,15 @@
 #### Pokemon Data Analysis
 
 ## Project Overview
-This project involves using multiple analysis techniques to explore Pokemon data. The dataset contains information on Pokemon species, types, and stats.
+This project involves using multiple analysis techniques to explore Pokemon data. The dataset contains information on Pokemon species, types, moves and stats.
 
 ## Dataset Description
-We utilized the PokeAPI dataset for our analysis as well as a compiled dataset by [Igreski](https://github.com/lgreski/pokemonData/blob/master/Pokemon.csv). This was due to the PokeAPI being relatively slow to pull from. The data is static, and the compoiled dataset has each Pokemon with their respective ID, Name, Types, Generation and stats.
+We utilized the PokeAPI dataset for our analysis. The data is up to date with the latest official values from the games. This API also includes data on other Pokemon related entities such as items and combat.
 
 ## File Structure
 - `project3.ipynb`: Jupyter notebook containing the analysis code.
 - `requirements.txt`: List of Python dependencies required for this project.
-- `Pokemon.csv`: Dataset containing Pokemon names, types, and stats.
+- `Project 3 Report.pdf`: A report containing the analysis findings and conclusions.
 
 ## Installation
 To set up the project environment:

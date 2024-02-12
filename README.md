@@ -5,7 +5,7 @@
 This project involves using multiple analysis techniques to explore Pokemon data. The dataset contains information on Pokemon species, types, moves and stats.
 
 ## Dataset Description
-We utilized the PokeAPI dataset for our analysis. The data is up to date with the latest official values from the games. This API also includes data on other Pokemon related entities such as items and combat.
+We utilized the PokeAPI dataset for our analysis. The data is up to date with the latest official values from the games. This API also includes data on other Pokemon related entities beyond the creatures: Berries, Contests, Encounters, Evolution, Games, Items, Locations, Machines, and Moves. This is a very powerful comprehensive dataset that allows for analysis of any Pokemon-associated data that one could imagine. 
 
 ## File Structure
 - `project3.ipynb`: Jupyter notebook containing the analysis code.

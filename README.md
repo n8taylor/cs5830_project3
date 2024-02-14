@@ -24,8 +24,9 @@ To set up the project environment:
 - You can modify and rerun the code cells to explore different hypotheses or perspectives.
 
 ## Analysis Techniques 
-<!-- 1. Pearson correlations
+1. Pearson correlations
 2. Scatterplots
-3. Averages
-4. Standard deviations
-5. T-tests (or Mann-Whitney-U test) -->
+3. Means
+4. Distribution mapping
+5. T-tests (or Mann-Whitney-U test)
+6. Bar charts
